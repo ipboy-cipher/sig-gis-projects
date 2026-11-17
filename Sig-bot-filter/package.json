@@ -1,7 +1,7 @@
 {
   "name": "sig-bot-filter",
   "version": "2.1.0",
-  "description": "Filtro de mensagens e eventos WhatsApp para o SIG BOT, integrado com Evolution API e n8n",
+  "description": "Filtro de mensagens WhatsApp para o SIG BOT, integrado com Evolution API e n8n",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
